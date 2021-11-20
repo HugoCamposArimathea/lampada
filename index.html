@@ -5,10 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lâmpada Mágica</title>
+    <link rel="shortcut icon" href="image/lampada.ico" type="image/x-icon">
     <link rel="stylesheet" href="estilo/style.css">
 </head>
 <body>
     <h1>Bem-Vindo</h1>
+    <div class="conteudo">
+        <img id="imagem" src="image/desligada.jpg" alt="Foto de uma lâmpada" onclick="lampadaQuebrada()" 
+        onmouseenter="ligarLampada()" onmouseout="desligarLampada()">
+        <div class="botoes">
+            <input id="ligar" type="button" value="Ligar" onclick="ligarLampada()">
+            <input id="desligar" type="button" value="Desligar" onclick="desligarLampada()">
+        </div>
+    </div>
+    <div>
+        <a href="mailto: hugocamposarimathea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/hugocamposarimathea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
+        <a href="https://github.com/HugoCamposArimathea" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+    </div>
+    <footer><p>Todos os direitos reservados</p></footer>
     <script src="script/script.js" defer></script>
 </body>
 </html>
