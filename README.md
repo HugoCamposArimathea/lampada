@@ -3,7 +3,7 @@
 <h4 align="justify">Este e um projeto de uma lâmpada feito em JavaScript, trabalhando com a inserção e a troca de imagens dinâmicas. Este e um projeto feito por mim do qual tirei a inspiração do <a href="https://www.youtube.com/user/thekpta">Fernando Leonid</a>, e da onde tirei as imagens também.
 
 <br>
-<em>This is a project of a light bulb, build with JavaScript. Working with DOM and pictures that react to clicks. This is a project made by me and inspired by the video of <a href="https://www.youtube.com/user/thekpta">Fernando Leonid</a> and, I took his pictures too.</em>
+<em>This is a project of a light bulb, built with JavaScript. Working with DOM and pictures that react to clicks. This is a project made by me and inspired by the video of <a href="https://www.youtube.com/user/thekpta">Fernando Leonid</a> and, I took his pictures too.</em>
 </h4><br>
 
 <hr>
